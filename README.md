@@ -1,2 +1,2 @@
 # AudioSpectrumAnalyser
-an app recording microphone input, plotting microphone sound and its spectrum. 
+a Python app recording microphone input, plotting microphone sound and its spectrum. 
